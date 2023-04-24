@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\bin\Debug\net6.0\SortedListCollection.exe
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\bin\Debug\net6.0\SortedListCollection.deps.json
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\bin\Debug\net6.0\SortedListCollection.runtimeconfig.json
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\bin\Debug\net6.0\SortedListCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\bin\Debug\net6.0\SortedListCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.AssemblyInfo.cs
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\refint\SortedListCollection.dll
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.pdb
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\SortedListCollection.genruntimeconfig.cache
+C:\Users\acer\Desktop\JavaScript\CIT190\SortedListCollection\SortedListCollection\obj\Debug\net6.0\ref\SortedListCollection.dll
